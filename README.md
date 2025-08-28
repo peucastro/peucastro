@@ -7,7 +7,7 @@ const pedro = {
   lookingForwardTo: ["more open-source contributions", "internship opportunities", "reading more"],
   technologies: {
     languages: [ "c/c++", "java", "kotlin", "scala", "python", "sql",
-                              "html", "css", "javascript", "php", "dart", "nix,"],
+                              "html", "css", "javascript", "php", "dart", "nix"],
     frontEnd: ["svelte", "astro", "tailwindcss"],
     backEnd: ["spring boot", "nestjs"],
     mobile: ["flutter"],
