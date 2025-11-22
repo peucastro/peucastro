@@ -1,5 +1,5 @@
 ```js
-const pedro = {
+let pedro = {
   enrolling: { course: "informatics & computer engineering", faculty: "feup" },
   pronouns: "he" | "him",
   askMeAbout: ["football", "music", "new software", "web dev"],
@@ -7,9 +7,9 @@ const pedro = {
   lookingForwardTo: ["more open-source contributions", "internship opportunities", "reading more"],
   technologies: {
     languages: [ "c/c++", "java", "kotlin", "scala", "python", "sql",
-                              "html", "css", "javascript", "php", "dart", "nix"],
+                              "html", "css", "javascript", "php", "dart", "haskell", "nix"],
     frontEnd: ["svelte", "astro", "tailwindcss"],
-    backEnd: ["spring boot", "nestjs"],
+    backEnd: ["spring boot", "nestjs", "laravel"],
     mobile: ["flutter"],
     devOps: ["ci/cd", "docker"],
     databases: ["postgresql", "mongodb", "sqlite"],
