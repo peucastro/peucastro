@@ -15,8 +15,8 @@ let pedro = {
     databases: ["postgresql", "mongodb", "sqlite"],
     misc: ["rest apis", "firebase"],
   },
-  os: ["linux", "nixos"], // btw
-  currently: { position: "project manager", at: "niaefeup" },
+  os: ["linux", "nixos", "arch"], // btw
+  currently: { position: "co-head of projects", at: "niaefeup" },
   hobbies: ["coding", "reading"]
 };
 ```
